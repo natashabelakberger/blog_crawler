@@ -1,4 +1,4 @@
 require './crawler.rb'
 
 crawler = Crawler.new
-crawler.say_hola(ARGV[0])
+crawler.dis_bonjour(ARGV[0])
