@@ -1,0 +1,21 @@
+ body {
+	font-family: Arial; 
+
+}
+
+h2 {
+	color: grey;
+	text-align: center;
+}
+
+table{
+	width: 275px;
+	text-align: center;
+	margin: auto;
+}
+
+tr:hover {
+	font-style: italic;
+	color: blue;
+	cursor: pointer;
+}
